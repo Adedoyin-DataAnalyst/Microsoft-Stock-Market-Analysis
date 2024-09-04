@@ -1,7 +1,7 @@
 # Microsoft-Stock-Market-Analysis
 
 - Project Title: Microsoft Stock Market Analysis (1986 - 2022)
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: [Quantum Analytics](https://quantumanalyticsco.org/)
 
 ## About Dataset
